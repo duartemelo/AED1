@@ -1,1 +1,1 @@
-Trabalho prático Algoritmos e Estruturas de Dados 1, IPCA
+Trabalho prático da cadeira Algoritmos e Estruturas de Dados 1, IPCA
